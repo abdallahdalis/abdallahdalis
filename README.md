@@ -9,7 +9,7 @@
 
 - 🤔 I’m looking for help with **Data Engineering tactics.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abdallahdalis.](https://github.com/abdallahdalis.)
+- 👨‍💻 All of my projects are available at [https://github.com/abdallahdalis.](https://github.com/abdallahdalis).
 
 - 💬 Ask me about **Data science, visualization, economics, and soccer!**
 
