@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdallah Dalis</h1>
-<h3 align="center">Math + CS + Econ @ UIC | Ex-Data Scientist @ Duly | Current Data Analyst @ Chicago Transit Authority</h3>
+<h3 align="center">Math + CS + Econ @ UIC | Ex-Data Scientist @ Duly | Data Analyst @ Chicago Transit Authority</h3>
 
 - 🔭 I’m currently working on [YouTube's Recommendations Algorithm Clone.](https://github.com/abdallahdalis/YT-Algorithm)
 
