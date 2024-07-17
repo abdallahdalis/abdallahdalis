@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Data science, visualization, economics, and soccer!**
 
-- 📫 How to reach me **dalisabdallah@gmail.com (708)-477-2744.**
+- 📫 How to reach me **dalisabdallah@gmail.com.**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1NHs9q2ZIWgnZqU_uAPeEZu6gTCwhYumezVRI0WGPUh8/edit?usp=sharing.](https://docs.google.com/document/d/1NHs9q2ZIWgnZqU_uAPeEZu6gTCwhYumezVRI0WGPUh8/edit?usp=sharing.)
 
