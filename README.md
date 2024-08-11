@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdallah Dalis</h1>
-<h3 align="center">Math + CS + Econ @ UIC | Data Analyst @ Chicago Transit Authority | Ex-Data Scientist @ Duly Health and Care </h3>
+<h3 align="center">Math + CS + Econ @ UIC | Software Engineer Fellow @ Headstarter AI | Data Analyst @ Chicago Transit Authority | Ex-Data Scientist @ Duly Health and Care </h3>
 
 - 🔭 I’m currently working on [Video Recommendations Algorithm.](https://github.com/abdallahdalis/Video.algo)
 
