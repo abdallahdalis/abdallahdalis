@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdallah Dalis</h1>
 <h3 align="center">Math + CS + Econ @ UIC | Software Engineer Fellow @ Headstarter AI | Data Analyst @ Chicago Transit Authority | Ex-Data Scientist @ Duly Health and Care </h3>
 
-- 🔭 I’m currently working on [YouTube Metrics Analysis.]((https://github.com/abdallahdalis/YouTube-Metrics-Analysis-Project))
+- 🔭 I’m currently working on [YouTube Metrics Analysis.]([https://github.com/abdallahdalis/YouTube-Metrics-Analysis-Project])
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
