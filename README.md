@@ -9,15 +9,15 @@
 
 - 🤔 I’m looking for help with [my Personal Portfolio Website.](https://github.com/abdallahdalis/Landing-Page)
 
-- 📫 How to reach me [dalisabdallah@gmail.com.](dalisabdallah@gmail.com.)
+- 📫 How to reach me [dalisabdallah@gmail.com.](dalisabdallah@gmail.com)
 
-- 👨‍💻 All of my projects are available at [https://github.com/abdallahdalis.](https://github.com/abdallahdalis.)
+- 👨‍💻 All of my projects are available at [https://github.com/abdallahdalis.](https://github.com/abdallahdalis)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 💬 Ask me about **Data science, visualization, economics, and soccer!**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1NHs9q2ZIWgnZqU_uAPeEZu6gTCwhYumezVRI0WGPUh8/edit?usp=sharing.](https://docs.google.com/document/d/1NHs9q2ZIWgnZqU_uAPeEZu6gTCwhYumezVRI0WGPUh8/edit?usp=sharing.)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1NHs9q2ZIWgnZqU_uAPeEZu6gTCwhYumezVRI0WGPUh8/edit?usp=sharing.](https://docs.google.com/document/d/1NHs9q2ZIWgnZqU_uAPeEZu6gTCwhYumezVRI0WGPUh8/edit?usp=sharing)
 
 - ⚡ Fun fact **I'm really good at soccer (try me).**
 
