@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdallah Dalis</h1>
 <h3 align="center">Math + CS + Econ @ UIC | Software Engineer Fellow @ Headstarter AI | Data Analyst @ Chicago Transit Authority | Ex-Data Scientist @ Duly</h3>
 
-- 📄Check out my website [here.](abdallahdalis.com)
+- 📄Check out my website at [abdallahdalis.com](abdallahdalis.com)
 
 - 🤝 I’m looking to collaborate on **any sort of Data Science/Software Developing projects.**
 
@@ -9,7 +9,7 @@
 
 - 🤔 I’m looking for help with [my Personal Portfolio Website.](https://github.com/abdallahdalis/Landing-Page)
 
-- 📫 How to reach me [dalisabdallah@gmail.com.](dalisabdallah@gmail.com)
+- 📫 How to reach me [dalisabdallah@gmail.com](dalisabdallah@gmail.com)
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdallahdalis.](https://github.com/abdallahdalis)
 
