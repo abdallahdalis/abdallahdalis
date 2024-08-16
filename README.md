@@ -9,7 +9,7 @@
 
 - 🌐 View my website here [http://abdallahdalis.com](http://abdallahdalis.com)
 
-- Connect with me on linkedin [https://www.linkedin.com/in/abdallahdalis/](https://www.linkedin.com/in/abdallahdalis/)
+- 📱 Connect with me on linkedin [https://www.linkedin.com/in/abdallahdalis/](https://www.linkedin.com/in/abdallahdalis/)
 
 - 💬 Ask me about **data science, visualization, economics, and soccer!**
 
