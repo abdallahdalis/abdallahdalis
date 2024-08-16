@@ -3,7 +3,7 @@
 
 - 📄Check out my website at [abdallahdalis.com](abdallahdalis.com)
 
-- 🤝 I’m looking to collaborate on **any sort of Data Science/Software Developing projects.**
+- 🤝 I’m looking to collaborate on **Data Science/Software Developing projects.**
 
 - 🔭 I’m currently working on [YouTube Metrics Analytics.](https://github.com/abdallahdalis/YouTube-Metrics-Analysis-Project)
 
