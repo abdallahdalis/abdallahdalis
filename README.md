@@ -5,7 +5,7 @@
 
 - 👨🏻‍🎓 I am currently learning **Graph Theory and Health and Behavioral Economics.**
 
-- 🤔 I’m looking for help with [pattern recognition for LeetCode and DSA.]
+- 🤔 I’m looking for help with **pattern recognition for LeetCode and DSA.**
 
 - 🌐 View my website here [http://abdallahdalis.com](http://abdallahdalis.com)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dalisabdallah@gmail.com**
 
-- 📝 Check out my resume here [https://drive.google.com/file/d/1rxUFqcHSMdCFITJxpwWAQ4RcXVXCRpnd/view?usp=sharing](https://drive.google.com/file/d/1rxUFqcHSMdCFITJxpwWAQ4RcXVXCRpnd/view?usp=sharing)
+- 📝 Check out my resume [here](https://drive.google.com/file/d/1ZACO66TGZDvLpOrHQhGQk7j8ogvn9Dai/view?usp=sharing)
 
 - ⚡ Fun fact **I'm really good at soccer (try me).**
 
