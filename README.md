@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dalisabdallah@gmail.com**
 
-- 📝 Check out my resume [here](https://drive.google.com/file/d/1ZACO66TGZDvLpOrHQhGQk7j8ogvn9Dai/view?usp=sharing)
+- 📝 Check out my resume [here!](https://drive.google.com/file/d/1ZACO66TGZDvLpOrHQhGQk7j8ogvn9Dai/view?usp=sharing)
 
 - ⚡ Fun fact **I'm really good at soccer (try me).**
 
