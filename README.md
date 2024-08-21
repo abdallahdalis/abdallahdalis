@@ -5,7 +5,7 @@
 
 - 👨🏻‍🎓 I am currently learning **Graph Theory and Health and Behavioral Economics.**
 
-- 🤔 I’m looking for help with my [Personal Portfolio Website.](https://github.com/abdallahdalis/Landing-Page)
+- 🤔 I’m looking for help with [pattern recognition for LeetCode and DSA.]
 
 - 🌐 View my website here [http://abdallahdalis.com](http://abdallahdalis.com)
 
