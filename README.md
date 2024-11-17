@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdallah Dalis</h1>
-<h3 align="center">Math + CS + Econ @ UIC | Software Engineer Fellow @ Headstarter AI | Data Analyst @ Chicago Transit Authority | Ex-Data Scientist @ Duly</h3>
+<h3 align="center">Math + CS + Econ @ UIC | Data Analyst @ Chicago Transit Authority | Ex-Software Engineer Fellow @ Headstarter AI Ex-Data Scientist @ Duly</h3>
 
 - 📈 Check out my latest project, the [YouTube Metrics Analysis.](https://github.com/abdallahdalis/YouTube-Metrics-Analysis-Project)
 
-- 👨🏻‍🎓 I am currently learning **Graph Theory and Health and Behavioral Economics.**
+- 👨🏻‍🎓 I am currently learning **Graph Theory and Health and Health Economics.**
 
 - 🤔 I’m looking for help with **pattern recognition for LeetCode and DSA.**
 
