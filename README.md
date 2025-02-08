@@ -1,24 +1,32 @@
-<h1 align="center">Hi 👋, I'm Abdallah Dalis</h1>
-<h3 align="center">Math + CS + Econ @ UIC | Data Analyst @ Chicago Transit Authority | Ex-Software Engineer Fellow @ Headstarter AI Ex-Data Scientist @ Duly</h3>
+# Abdallah Dalis  
+🎓 **Mathematics + Computer Science + Economics @ UIC (Graduating May 2025)**  
+📊 **Data Analyst @ Chicago Transit Authority | Ex-Software Engineer @ Headstarter AI | Ex-Data Scientist @ Duly Health and Care**  
 
-- 📈 Check out my latest project, the [YouTube Metrics Analysis.](https://github.com/abdallahdalis/YouTube-Metrics-Analysis-Project)
+## 🚀 About Me  
+I specialize in **data analytics, business intelligence, and predictive modeling**, leveraging **SQL, Python, Power BI, and Excel** to translate raw data into actionable insights. My experience spans **financial forecasting, AI-driven automation, and market research analytics.**  
 
-- 👨🏻‍🎓 I am currently learning **Graph Theory and Health and Health Economics.**
+## 🔥 Featured Projects  
+- 📈 **[YouTube Metrics Analysis](https://github.com/abdallahdalis/YouTube-Metrics-Analysis-Project)** – Analyzed 150+ videos using Python & YouTube API to optimize engagement & ad revenue.  
+- 🔗 **[Move Smart: Real-Time Data Pipeline](https://github.com/abdallahdalis/Move-Smart)** – Designed ETL pipelines processing 1,000+ records/min using Python, Kafka, Spark, & Redshift.  
+- 💰 **[Financial Forecasting & Risk Modeling]** *(Coming Soon!)* – Building predictive models for revenue forecasting & risk analysis using machine learning.  
 
-- 🤔 I’m looking for help with **pattern recognition for LeetCode and DSA.**
+## 🛠️ Technical Skills  
+- **Languages & Tools:** Python (Pandas, NumPy, Scikit-learn), SQL (PostgreSQL, BigQuery), R, VBA  
+- **BI & Visualization:** Power BI, Tableau, Looker, Matplotlib, Seaborn  
+- **Cloud & Big Data:** AWS (Redshift, S3, Lambda), GCP (BigQuery), Azure, Databricks, Spark, Kafka  
+- **Machine Learning:** Regression, Time-Series Forecasting, NLP, Neural Networks  
 
-- 🌐 View my website here [http://abdallahdalis.com](http://abdallahdalis.com)
+## 📚 Currently Learning  
+- **Graph Theory & Network Analytics**  
+- **Advanced Health Economics & Market Intelligence**  
 
-- 📱 Connect with me on linkedin [https://www.linkedin.com/in/abdallahdalis/](https://www.linkedin.com/in/abdallahdalis/)
+## 🤝 Connect With Me  
+📂 **Portfolio:** [abdallahdalis.com](http://abdallahdalis.com)  
+💼 **LinkedIn:** [linkedin.com/in/abdallahdalis](https://www.linkedin.com/in/abdallahdalis/)  
+📄 **Resume:** *(Coming Soon!)*  
+📧 **Email:** [dalisabdallah@gmail.com](mailto:dalisabdallah@gmail.com)  
 
-- 💬 Ask me about **data science, visualization, economics, and soccer!**
-
-- 📫 How to reach me **dalisabdallah@gmail.com**
-
-- 📝 Check out my resume [here!](https://drive.google.com/file/d/1ZACO66TGZDvLpOrHQhGQk7j8ogvn9Dai/view?usp=sharing)
-
-- ⚡ Fun fact **I'm really good at soccer (try me).**
-
+⚡ **Fun Fact:** When I’m not analyzing data, I’m playing soccer—challenge me!  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdallahdalis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdallahdalis/" height="30" width="40" /></a>
