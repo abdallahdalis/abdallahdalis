@@ -1,14 +1,16 @@
 # Abdallah Dalis  
 🎓 **Mathematics + Computer Science + Economics @ UIC (Graduating May 2025)**  
-📊 **Data Analyst @ Chicago Transit Authority | Ex-Software Engineer @ Headstarter AI | Ex-Data Scientist @ Duly Health and Care**  
+📊 **Data Analyst @ Chicago Transit Authority**  
+👾 **Ex-Software Engineer Fellow @ Headstarter AI**  
+🩺 **Ex-Data Analytics Intern @ Duly Health and Care**  
 
 ## 🚀 About Me  
 I specialize in **data analytics, business intelligence, and predictive modeling**, leveraging **SQL, Python, Power BI, and Excel** to translate raw data into actionable insights. My experience spans **financial forecasting, AI-driven automation, and market research analytics.**  
 
 ## 🔥 Featured Projects  
 - 📈 **[YouTube Metrics Analysis](https://github.com/abdallahdalis/YouTube-Metrics-Analysis-Project)** – Analyzed 150+ videos using Python & YouTube API to optimize engagement & ad revenue.  
-- 🔗 **[Move Smart: Real-Time Data Pipeline](https://github.com/abdallahdalis/Move-Smart)** – Designed ETL pipelines processing 1,000+ records/min using Python, Kafka, Spark, & Redshift.  
-- 💰 **[Financial Forecasting & Risk Modeling]** *(Coming Soon!)* – Building predictive models for revenue forecasting & risk analysis using machine learning.  
+- 🔗 **[Move Smart: Real-Time Data Pipeline](https://github.com/abdallahdalis/Move-Smart)** – ETL pipelines processing 1,000+ records/min using Python, Kafka, Spark, & Redshift.  
+- 💰 **[Financial Forecasting & Risk Modeling]** *(Coming Soon!)* – Predictive models for revenue forecasting & risk analysis with AI/ML.  
 
 ## 🛠️ Technical Skills  
 - **Languages & Tools:** Python (Pandas, NumPy, Scikit-learn), SQL (PostgreSQL, BigQuery), R, VBA  
