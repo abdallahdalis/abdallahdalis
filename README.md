@@ -23,7 +23,7 @@ I specialize in **data analytics, business intelligence, and predictive modeling
 ## 🤝 Connect With Me  
 📂 **Portfolio:** [abdallahdalis.com](http://abdallahdalis.com)  
 💼 **LinkedIn:** [linkedin.com/in/abdallahdalis](https://www.linkedin.com/in/abdallahdalis/)  
-📄 **Resume:** *(Coming Soon!)*  
+📄 **Resume:** [View Here](https://drive.google.com/file/d/16c07Ev_oika-aFHM8UK0e7kY74eR_wsX/view?usp=sharing)
 📧 **Email:** [dalisabdallah@gmail.com](mailto:dalisabdallah@gmail.com)  
 
 ⚡ **Fun Fact:** When I’m not analyzing data, I’m playing soccer—challenge me!  
