@@ -7,7 +7,7 @@ Economist and data analyst in Chicago. M.S. Economics & Quantitative Analysis (D
 ### Selected work
 
 - **[Chicago Food-Access Map](https://github.com/abdallahdalis/abdallahdalis.github.io)** — interactive logit model of food-desert risk across 791 Chicago census tracts (USDA FARA). **[Live demo →](https://abdallahdalis.github.io)**
-- **Monetary Policy & Local Labor Markets** — shift-share DiD across 2,887 counties + SVAR / Jordà local projections with high-frequency FOMC surprises.
+- **[Monetary Policy & Local Labor Markets](https://github.com/abdallahdalis/monetary-policy-local-labor)** — VAR / SVAR / Jordà local projections + random forest with high-frequency FOMC surprises; the tightening puzzle is an identification artifact.
 - **Production Functions, Productivity & Markups** — Olley–Pakes structural estimation across six estimators on a 2,971-firm panel.
 
 ### Toolkit
